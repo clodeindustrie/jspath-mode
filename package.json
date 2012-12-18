@@ -1,0 +1,15 @@
+{
+    "name": "jspath-mode",
+    "version": "0.1",
+    "description": "An emacs mode for querying json files with JSPath",
+    "homepage": "http://github.com/clodeindustrie/jspath-mode",
+    "author": {
+        "name": "Clodeindustrie",
+        "url": "http://www.moukake.net/"
+    },
+    "dependencies": {
+        "express": "<=2.5.9",
+        "jspath": "<=0.2.7",
+    },
+    "engines": ["node >= 0.6.0"]
+}
